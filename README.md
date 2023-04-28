@@ -1,4 +1,4 @@
-# Next Component
+# New Next Component
 
 ## Use
 

@@ -1,12 +1,12 @@
 {
-  "name": "nnc",
+  "name": "new-next-component",
   "version": "1.0.0",
   "description": "Node script to initialise new Next.js component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Pål N. Bakken",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.2.0",
